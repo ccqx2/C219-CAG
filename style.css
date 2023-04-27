@@ -1,0 +1,169 @@
+#titles1{
+    color: aliceblue;
+    text-align: center;
+}
+
+#username{
+    text-align: center;
+}
+#userin{
+    border-radius: 50px;
+    padding: 5pt;
+    border:none;
+    background-color: aliceblue;
+}
+#gos2{
+    border-radius: 10px;
+    padding:5pt;
+    border: none;
+    background-color: lightgreen;
+}
+#whats1{
+    text-align: center;
+}
+.nav{
+    background-color: rgb(80, 66, 66);
+    list-style-type: none;
+    margin:auto;
+    width:100%;
+    padding: 20px;
+    position:absolute;
+    top:0;
+}
+.nav a{
+    color:aliceblue;
+}
+.nav a:hover{
+    color: burlywood;
+}
+#share{
+    position:absolute;
+    right:20%;
+    color: aliceblue;
+}
+#share:hover{
+    color: burlywood;
+}
+#placeuser{
+    position:absolute;
+    right:10%;
+    color: aliceblue;
+    border: 1px solid lightgreen;
+    background-color: rgb(80, 66, 66);
+    width:auto;
+}
+.banner{
+    position:absolute;
+    top:10%;
+    text-align: center;
+    background-color: rgb(74, 62, 62);
+    width: 100%;
+    height:20%;
+}
+.banner h1{
+    padding-top:20px;
+    color: darksalmon;
+}
+.banner p{
+    color: aliceblue;
+}
+#lock2{
+    font-size:30px;
+}
+#lock2:hover{
+    font-size:35px;
+}
+#lockp2{
+    height: auto;
+    width: auto;
+    border: none;
+}
+#lock3{
+    font-size:30px;
+}
+#lock3:hover{
+    font-size:35px;
+}
+#lockp3{
+    height: auto;
+    width: auto;
+    border: none;
+}
+#unlock{
+    font-size:30px;
+}
+#unlock:hover{
+    font-size:35px;
+}
+#level1{
+    height:auto;
+    width:auto;
+    border:none;
+}
+#level2{
+    height:auto;
+    width:auto;
+    border:none;
+}
+#footers2{
+    font-size: 10px;
+    text-align: center;
+}
+#runs3{
+    width: 300px;
+    height: 200px;
+    border-radius: 50px;
+}
+#cycles4{
+    width: 300px;
+    height: 200px;
+    border-radius: 50px;
+}
+#day1s3{
+    width:300px;
+}
+#day2s3{
+    width:300px;
+}
+#day3s3{
+    width:300px;
+}
+#day4s3{
+    width:300px;
+}
+#day5s3{
+    width:300px;
+}
+#day6s3{
+    width:300px;
+}
+#day7s3{
+    width:300px;
+}
+#day1s4{
+    width:300px;
+}
+#day2s4{
+    width:300px;
+}
+#day3s4{
+    width:300px;
+}
+#day4s4{
+    width:300px;
+}
+#day5s4{
+    width:300px;
+}
+#day6s4{
+    width:300px;
+}
+#day7s4{
+    width:300px;
+}
+#createdata{
+    border:none;
+    border-radius: 50px;
+    background-color: cadetblue;
+    color:aliceblue;
+}
